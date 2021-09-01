@@ -66,13 +66,6 @@ class _TaskOneState extends State<TaskOne> {
             ],
           ),
         ),
-        body: Container(
-          child: Row(
-            children: [
-              Image.asset("product.png")
-            ],
-          ),
-        ),
       ),
     );
   }
